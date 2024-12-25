@@ -4,6 +4,7 @@ Control := 0.18
 ; Don't edit anything beyond this point
 barWidth := Floor(96 + (Control*326.67))
 
+toggle := true
 mouseDown := False
 barStart := 247 ; LEFT pixel of the FULL reel bar
 barEnd := 570 ; RIGHT pixel of the FULL reel bar
